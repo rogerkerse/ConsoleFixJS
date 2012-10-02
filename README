@@ -1,0 +1,5 @@
+Setup:
+1. Simply copy 'consoleFix.js' under your project.
+2. Add the following line as the first <script> tag in every html file's <head> tag.
+	
+	<script type="text/javascript" src="consoleFix.js"></script>
